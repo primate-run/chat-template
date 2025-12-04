@@ -1,0 +1,15 @@
+{
+  "name": "@primate/app/chat",
+  "description": "Primate chat app template",
+  "type": "module",
+  "scripts": {
+    "start": "npx primate",
+    "build": "npx primate build",
+    "serve": "npx primate serve"
+  },
+  "dependencies": {
+    "@primate/html": "^0.15.0",
+    "pema": "^0.4.0",
+    "primate": "^0.35.1"
+  }
+}
