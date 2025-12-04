@@ -1,4 +1,4 @@
-# Primate chat app template
+# Primate chat template
 
 ## Install
 
