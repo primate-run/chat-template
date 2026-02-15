@@ -8,8 +8,8 @@
     "serve": "npx primate serve"
   },
   "dependencies": {
-    "@primate/html": "^0.15.0",
-    "pema": "^0.4.0",
-    "primate": "^0.35.1"
+    "@primate/html": "^0.16.0",
+    "pema": "^0.5.0",
+    "primate": "^0.36.0"
   }
 }
